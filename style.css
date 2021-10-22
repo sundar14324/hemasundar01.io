@@ -13,7 +13,7 @@ p {
   height: 150px;
   margin-right: 10px;
   padding: 40px 10px 5px 10px;
-  overflow: visible;
+  overflow: hidden;
 }
 
 
@@ -28,7 +28,7 @@ p {
   top: 0;
   right: 0;
   font-weight: bold;
-  height: 35px;
+  height: 20px;
   width: 120px;
   padding: 10px;
   text-align: center;
